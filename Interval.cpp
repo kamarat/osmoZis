@@ -26,8 +26,8 @@ extern "C" {
   #include <string.h>
   #include <inttypes.h>
 }
-#include <arduino.h>
-#include "interval.h"
+#include <Arduino.h>
+#include "Interval.h"
 
 // Public Methods //////////////////////////////////////////////////////////////
 uint32_t Interval::remains(void)
